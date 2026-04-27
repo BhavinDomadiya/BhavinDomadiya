@@ -32,7 +32,7 @@ Currently, I’m expanding into **AI-driven applications and intelligent systems
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 
 ### 📱 Mobile & Hybrid
 
